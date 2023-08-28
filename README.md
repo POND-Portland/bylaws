@@ -35,11 +35,21 @@ The Community Rules are as follows:
 # Article V - Roles
 We acknowledge 5 roles for members of the Community:
 
+* [New Participants](#role-newbie)
+* [Community Members](#role-member)
 * [Community Leaders](#role-cl)
 * [Moderators](#role-mod)
 * [Server Owner](#role-owner)
-* [New Participants](#role-newbie)
-* [Community Members](#role-member)
+
+## New Participants <a id="role-newbie"></a>
+
+All users, upon joining the server, are assigned the New Participant role.
+
+## Community Members <a id="role-member"></a>
+
+Upon reaching level 4 through Maki's level system, New Participants will automatically promoted to Community Member.
+
+Community Members have access to the Support section area of the Server.
 
 ## Community Leaders <a id="role-cl"></a>
 
@@ -67,16 +77,6 @@ Moderators are expected to discharge the following leadership responsibilities:
 ## Server Owner <a id="role-owner"></a>
 
 The Server Owner is expected to execute any successful resolution that is not possible for other Moderators to execute due to Discord technical limitations.
-
-## New Participants <a id="role-newbie"></a>
-
-All users, upon joining the server, are assigned the New Participant role.
-
-## Community Members <a id="role-member"></a>
-
-Upon reaching level 4 through Maki's level system, New Participants will automatically promoted to Community Member.
-
-Community Members have access to the Support section area of the Server.
 
 # Article VI - Leaders Selection
 ## Community Leaders
