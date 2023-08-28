@@ -33,9 +33,16 @@ The Community Rules are as follows:
 8. Be mindful of how you plan events both as scheduler and attendee
 
 # Article V - Roles
-We acknowledge 5 roles for members of the Community 
+We acknowledge 5 roles for members of the Community:
 
-## Community Leaders
+* [Community Leaders](#role-cl)
+* [Moderators](#role-mod)
+* [Server Owner](#role-owner)
+* [New Participants](#role-newbie)
+* [Community Members](#role-member)
+
+## Community Leaders <a id="role-cl"></a>
+
 Community Leaders are expected to discharge the following leadership responsibilities:
 1. Set the tone
 2. Act as a role model
@@ -45,7 +52,8 @@ Community Leaders are expected to discharge the following leadership responsibil
 4. Manage messages (such as deleting inappropriate ones, or pinning important messages)
 5. Onboard and support the newer members of the community
 
-## Moderators
+## Moderators <a id="role-mod"></a>
+
 Moderators are expected to discharge the following leadership responsibilities:
 1. All the responsibilities of Community Leaders as well as:
 2. Monitor the status of the community and make structural changes as necessary
@@ -56,13 +64,16 @@ Moderators are expected to discharge the following leadership responsibilities:
 7. Vote on proposed Resolutions
 8. Notify the other Moderators of possible conflicts of interests
 
-## Server Owner
+## Server Owner <a id="role-owner"></a>
+
 The Server Owner is expected to execute any successful resolution that is not possible for other Moderators to execute due to Discord technical limitations.
 
-## New Participants
+## New Participants <a id="role-newbie"></a>
+
 All users, upon joining the server, are assigned the New Participant role.
 
-## Community Members
+## Community Members <a id="role-member"></a>
+
 Upon reaching level 4 through Maki's level system, New Participants will automatically promoted to Community Member.
 
 Community Members have access to the Support section area of the Server.
