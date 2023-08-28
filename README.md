@@ -194,6 +194,6 @@ Should at least two Moderators identify that the Server Owner has not discharged
 9. Ban - Permanently removing a member from the server so they may not rejoin 
 10. Simple Majority - More than 50% of the total eligible members vote in favor of the proposed resolution 
 11. Supermajority - Simple majority, as well as more than ⅔ of the votes cast in favor of the proposed resolution.
-12. Good Character - Upholds the values of the Community, obeys the spirit of the Community guidelines and rules, and generally maintains positive interactions with other members. This is deliberately left vague as the meaning can and should change with time, current membership, and circumstance and it is recognized that different members may show “good character” in different and unique ways.
+12. Good Character - Members who consistently demonstrate integrity, respect, and empathy towards others, while upholding the values and rules of the Community. This includes fostering positive and inclusive interactions, promoting a welcoming environment, and adapting to the evolving needs and dynamics of the community.
 13. Server - The Discord server that the Community is hosted on.
 14. Community Values - Inclusivity, accountability, and friendliness, as well as everything else highlighted by the Bylaws.
