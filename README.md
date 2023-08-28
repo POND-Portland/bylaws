@@ -1,6 +1,40 @@
 # RCNSP Bylaws
 Bylaws Revision 2023-08-27
 
+- [RCNSP Bylaws](#rcnsp-bylaws)
+- [Article I - Name](#article-i---name)
+- [Article II - Purpose](#article-ii---purpose)
+- [Article III - Participation](#article-iii---participation)
+- [Article IV - Community Rules](#article-iv---community-rules)
+- [Article V - Roles](#article-v---roles)
+  - [New Participants ](#new-participants-)
+  - [Community Members ](#community-members-)
+  - [Community Leaders ](#community-leaders-)
+  - [Moderators ](#moderators-)
+  - [Server Owner ](#server-owner-)
+- [Article VI - Leaders Selection](#article-vi---leaders-selection)
+  - [Community Leaders](#community-leaders)
+  - [Moderators](#moderators)
+- [Article VII - Leadership Communication](#article-vii---leadership-communication)
+- [Article VIII - Resolutions](#article-viii---resolutions)
+  - [Proposal](#proposal)
+  - [Voting](#voting)
+  - [Execution](#execution)
+- [Article IX - Special Resolutions](#article-ix---special-resolutions)
+  - [Private Report Resolution](#private-report-resolution)
+    - [Proposal](#proposal-1)
+    - [Voting](#voting-1)
+    - [Execution](#execution-1)
+  - [Bylaws Amendment Resolution](#bylaws-amendment-resolution)
+    - [Proposal](#proposal-2)
+    - [Voting](#voting-2)
+    - [Execution](#execution-2)
+  - [No-Confidence Resolution](#no-confidence-resolution)
+    - [Voting](#voting-3)
+    - [Execution](#execution-3)
+- [Article X - Definitions](#article-x---definitions)
+
+
 # Article I - Name
 The name of this Community shall be Rose City Social Network Project.
 
