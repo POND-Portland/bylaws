@@ -43,18 +43,18 @@ Community Leaders are expected to discharge the following leadership responsibil
     1. Put user in timeouts and use Maki's mute feature in a reasonable manner
     2. Redirect conversations to relevant channels, with emphasis on Vent and Legal Vices
 4. Manage messages (such as deleting inappropriate ones, or pinning important messages)
-5. Review logs for suspicious activity
-6. Onboard and support the newer members of the community
+5. Onboard and support the newer members of the community
 
 ## Moderators
 Moderators are expected to discharge the following leadership responsibilities:
 1. All the responsibilities of Community Leaders as well as:
 2. Monitor the status of the community and make structural changes as necessary
 3. Review posts at a reasonable cadence
-4. Coordinate with other Moderators to handle tickets
-5. Vote on Community Leader applications
-6. Vote on proposed Resolutions
-7. Notify the other Moderators of possible conflicts of interests
+4. Review logs for suspicious activity
+5. Coordinate with other Moderators to handle tickets
+6. Vote on Community Leader applications
+7. Vote on proposed Resolutions
+8. Notify the other Moderators of possible conflicts of interests
 
 ## Server Owner
 The Server Owner is expected to execute any successful resolution that is not possible for other Moderators to execute due to Discord technical limitations.
@@ -71,7 +71,7 @@ Community Members have access to the Support section area of the Server.
 ## Community Leaders
 Any member of the community with access to the support area, can offer themselves as a candidate for the role of Community Leader by filling in the [Community Leader Application Form](https://dyno.gg/form/22670037) (hosted by Dyno, also found in the Submissions forum).
 
-Moderators will have a quick internal conversation to see if any of them has an objection to the candidate, if the majority of the Moderators is in favor of the candidacy, Community Leaders will be informed of the candidacy in the CL-General post, so they can offer their own possible objections.
+Moderators will have a quick internal conversation to see if any of them has an objection to the candidate, if the majority of the Moderators is in favor of the candidacy, Community Leaders will be informed of the candidacy in the CL Application Review post, so they can offer their own possible objections.
 
 Once Moderators are satisfied with the collected feedback, if no objection was offered, the candidate should be promoted to the role, otherwise a Supermajority vote will be held to decide the outcome of the candidacy.
 
@@ -164,7 +164,7 @@ In case a Server Owner fails to execute a resolution that was voted upon by the 
 The intent of this measure is to ensure the Server Owner compliance with the bylaws.
 
 ### Voting
-Should at least two Moderators identify that the Server Owner has not discharged their responsibility according to the bylaws and the structure of the resolution, they may create a DM channel with all Moderators but the Server Owner hold a Supermajority vote on a motion of no confidence.
+Should at least two Moderators identify that the Server Owner has not discharged their responsibility according to the bylaws and the structure of the resolution, they may create a DM channel with all Moderators but the Server Owner to hold a Supermajority vote on a motion of no confidence.
 
 ### Execution
 1. If the vote passes all Moderators will remove their Moderator role as a message to the server that there is no longer confidence in the server leadership.
