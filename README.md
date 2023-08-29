@@ -1,6 +1,40 @@
 # RCNSP Bylaws
 Bylaws Revision 2023-08-27
 
+- [RCNSP Bylaws](#rcnsp-bylaws)
+- [Article I - Name](#article-i---name)
+- [Article II - Purpose](#article-ii---purpose)
+- [Article III - Participation](#article-iii---participation)
+- [Article IV - Community Rules](#article-iv---community-rules)
+- [Article V - Roles](#article-v---roles)
+  - [New Participants ](#new-participants-)
+  - [Community Members ](#community-members-)
+  - [Community Leaders ](#community-leaders-)
+  - [Moderators ](#moderators-)
+  - [Server Owner ](#server-owner-)
+- [Article VI - Leaders Selection](#article-vi---leaders-selection)
+  - [Community Leaders](#community-leaders)
+  - [Moderators](#moderators)
+- [Article VII - Leadership Communication](#article-vii---leadership-communication)
+- [Article VIII - Resolutions](#article-viii---resolutions)
+  - [Proposal](#proposal)
+  - [Voting](#voting)
+  - [Execution](#execution)
+- [Article IX - Special Resolutions](#article-ix---special-resolutions)
+  - [Private Report Resolution](#private-report-resolution)
+    - [Proposal](#proposal-1)
+    - [Voting](#voting-1)
+    - [Execution](#execution-1)
+  - [Bylaws Amendment Resolution](#bylaws-amendment-resolution)
+    - [Proposal](#proposal-2)
+    - [Voting](#voting-2)
+    - [Execution](#execution-2)
+  - [No-Confidence Resolution](#no-confidence-resolution)
+    - [Voting](#voting-3)
+    - [Execution](#execution-3)
+- [Article X - Definitions](#article-x---definitions)
+
+
 # Article I - Name
 The name of this Community shall be Rose City Social Network Project.
 
@@ -33,9 +67,26 @@ The Community Rules are as follows:
 8. Be mindful of how you plan events both as scheduler and attendee
 
 # Article V - Roles
-We acknowledge 5 roles for members of the Community 
+We acknowledge 5 roles for members of the Community:
 
-## Community Leaders
+* [New Participants](#role-newbie)
+* [Community Members](#role-member)
+* [Community Leaders](#role-cl)
+* [Moderators](#role-mod)
+* [Server Owner](#role-owner)
+
+## New Participants <a id="role-newbie"></a>
+
+All users, upon joining the server, are assigned the New Participant role.
+
+## Community Members <a id="role-member"></a>
+
+Upon reaching level 4 through Maki's level system, New Participants will automatically promoted to Community Member.
+
+Community Members have access to the Support section area of the Server.
+
+## Community Leaders <a id="role-cl"></a>
+
 Community Leaders are expected to discharge the following leadership responsibilities:
 1. Set the tone
 2. Act as a role model
@@ -45,7 +96,8 @@ Community Leaders are expected to discharge the following leadership responsibil
 4. Manage messages (such as deleting inappropriate ones, or pinning important messages)
 5. Onboard and support the newer members of the community
 
-## Moderators
+## Moderators <a id="role-mod"></a>
+
 Moderators are expected to discharge the following leadership responsibilities:
 1. All the responsibilities of Community Leaders as well as:
 2. Monitor the status of the community and make structural changes as necessary
@@ -56,16 +108,9 @@ Moderators are expected to discharge the following leadership responsibilities:
 7. Vote on proposed Resolutions
 8. Notify the other Moderators of possible conflicts of interests
 
-## Server Owner
+## Server Owner <a id="role-owner"></a>
+
 The Server Owner is expected to execute any successful resolution that is not possible for other Moderators to execute due to Discord technical limitations.
-
-## New Participants
-All users, upon joining the server, are assigned the New Participant role.
-
-## Community Members
-Upon reaching level 4 through Maki's level system, New Participants will automatically promoted to Community Member.
-
-Community Members have access to the Support section area of the Server.
 
 # Article VI - Leaders Selection
 ## Community Leaders
@@ -183,6 +228,6 @@ Should at least two Moderators identify that the Server Owner has not discharged
 9. Ban - Permanently removing a member from the server so they may not rejoin 
 10. Simple Majority - More than 50% of the total eligible members vote in favor of the proposed resolution 
 11. Supermajority - Simple majority, as well as more than ⅔ of the votes cast in favor of the proposed resolution.
-12. Good Character - Upholds the values of the Community, obeys the spirit of the Community guidelines and rules, and generally maintains positive interactions with other members. This is deliberately left vague as the meaning can and should change with time, current membership, and circumstance and it is recognized that different members may show “good character” in different and unique ways.
+12. Good Character - Members who consistently demonstrate integrity, respect, and empathy towards others, while upholding the values and rules of the Community. This includes fostering positive and inclusive interactions, promoting a welcoming environment, and adapting to the evolving needs and dynamics of the community.
 13. Server - The Discord server that the Community is hosted on.
 14. Community Values - Inclusivity, accountability, and friendliness, as well as everything else highlighted by the Bylaws.
