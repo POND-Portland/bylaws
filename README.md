@@ -1,22 +1,22 @@
-# RCNSP Bylaws
+# POND Bylaws
 Bylaws Revision 2023-08-28  
 Approved on 2023-08-28  
 Adopted on 2023-08-28  
 
 # Article I - Name
-The name of this Community shall be Rose City Social Network Project.
+The name of this Community shall be Portland Oregon Neighborhood Discord.
 
-Alternatively referred to as RCSNP.
+Alternatively referred to as POND.
 
 # Article II - Purpose
-The purpose of RCSNP shall be to create a welcoming, inclusive and accountable space for people around the Portland region to make real-world friendships and connections among adults 21 and older.
+The purpose of POND shall be to create a welcoming, inclusive and accountable space for people around the Portland region to make real-world friendships and connections among adults 21 and older.
 
 # Article III - Participation
 Participation in this Community is allowed to users who adhere to the all of the following:
 1. Demonstrate Good Character.
 2. Abide by the Community Rules and the Discord Terms of Service.
 3. Is at least 21 years of age.
-    1. Users between 18 and 20 years of age that are members of RCSNP by the time this rule is ratified are exempt from this rule.
+    1. Users between 18 and 20 years of age that are members of POND by the time this rule is ratified are exempt from this rule.
 4. Operate in the area of interest of this Community, defined as the Greater Portland Oregon Metro Area, which includes adjacent suburbs and Vancouver Washington, in at least one of the following ways:
     1. Is a resident of the area.
     2. Is a regular visitor of the area.
