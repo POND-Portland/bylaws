@@ -1,22 +1,22 @@
-# RCNSP Bylaws
-Bylaws Revision 2023-08-28  
+# POND Bylaws
+Bylaws Revision 2024-02-22 
 Approved on 2023-08-28  
 Adopted on 2023-08-28  
 
 # Article I - Name
-The name of this Community shall be Rose City Social Network Project.
+The name of this Community shall be Portland Oregon Neighborhood Discord.
 
-Alternatively referred to as RCSNP.
+Alternatively referred to as POND.
 
 # Article II - Purpose
-The purpose of RCSNP shall be to create a welcoming, inclusive and accountable space for people around the Portland region to make real-world friendships and connections among adults 21 and older.
+The purpose of POND shall be to create a welcoming, inclusive and accountable space for people around the Portland region to make real-world friendships and connections among adults 21 and older.
 
 # Article III - Participation
 Participation in this Community is allowed to users who adhere to the all of the following:
 1. Demonstrate Good Character.
 2. Abide by the Community Rules and the Discord Terms of Service.
 3. Is at least 21 years of age.
-    1. Users between 18 and 20 years of age that are members of RCSNP by the time this rule is ratified are exempt from this rule.
+    1. Users between 18 and 20 years of age that are members of POND by the time this rule is ratified are exempt from this rule.
 4. Operate in the area of interest of this Community, defined as the Greater Portland Oregon Metro Area, which includes adjacent suburbs and Vancouver Washington, in at least one of the following ways:
     1. Is a resident of the area.
     2. Is a regular visitor of the area.
@@ -25,14 +25,17 @@ Participation in this Community is allowed to users who adhere to the all of the
 # Article IV - Community Rules
 The Community Rules must be listed in the Welcome and Rules channel on the Server. They may be given additional context or explanation beyond what is listed in the Bylaws. Where ambiguity exists, the more expansive version shall be treated as authoritative.
 The Community Rules are as follows:
-1. Absolutely no bigotry, bullying, harassment, etc.
-2. Keep chat friendly, light and welcoming. If a discussion/debate gets heated, take it to DMs or let it die.
-3. Don't be a creeper - respect people's boundaries.
-4. No spam, solicitation, "shitposting," excessive vulgarity, etc.
-5. Safety is always top priority for in-person meetups.
-6. Moderators are the final say in all rule enforcement. If a Moderator asks you to do / not to do something - follow it.
-7. Respect each other on and off Server.
-8. Be mindful of how you plan events both as scheduler and attendee.
+1. No bigotry
+2. No harassment/bullying
+3. New members must be 21+
+4. No heated political discussion
+5. This server is stricty SFW
+6. Ask consent before sharing other people's stuff
+7. You must be a resident in or around the Portland, OR Metro Area, a regular visitor to the community, or plan to move to the area
+8. No spam or advertising
+9. Don't Cold-DM people
+10. This is not a dating server
+11. Don't appeal moderator decisions in chat
 
 # Article V - Roles
 We acknowledge the following roles for members of the Community:
