@@ -1,5 +1,5 @@
 # POND Bylaws
-Bylaws Revision 2023-08-28  
+Bylaws Revision 2024-02-22 
 Approved on 2023-08-28  
 Adopted on 2023-08-28  
 
@@ -25,14 +25,17 @@ Participation in this Community is allowed to users who adhere to the all of the
 # Article IV - Community Rules
 The Community Rules must be listed in the Welcome and Rules channel on the Server. They may be given additional context or explanation beyond what is listed in the Bylaws. Where ambiguity exists, the more expansive version shall be treated as authoritative.
 The Community Rules are as follows:
-1. Absolutely no bigotry, bullying, harassment, etc.
-2. Keep chat friendly, light and welcoming. If a discussion/debate gets heated, take it to DMs or let it die.
-3. Don't be a creeper - respect people's boundaries.
-4. No spam, solicitation, "shitposting," excessive vulgarity, etc.
-5. Safety is always top priority for in-person meetups.
-6. Moderators are the final say in all rule enforcement. If a Moderator asks you to do / not to do something - follow it.
-7. Respect each other on and off Server.
-8. Be mindful of how you plan events both as scheduler and attendee.
+1. No bigotry
+2. No harassment/bullying
+3. New members must be 21+
+4. No heated political discussion
+5. This server is stricty SFW
+6. Ask consent before sharing other people's stuff
+7. You must be a resident in or around the Portland, OR Metro Area, a regular visitor to the community, or plan to move to the area
+8. No spam or advertising
+9. Don't Cold-DM people
+10. This is not a dating server
+11. Don't appeal moderator decisions in chat
 
 # Article V - Roles
 We acknowledge the following roles for members of the Community:
